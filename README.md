@@ -1,2 +1,3 @@
 # MS_PowerBI_Certification
 微軟PowerBI課程與認證筆記
+本篇內容僅作為個人學習用途
